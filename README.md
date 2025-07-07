@@ -14,8 +14,24 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-SCRIPT PARA PEGAR EN MONGODB
+npm i
 
+
+
+backend
+npm install --save-dev nodemon
+npm install express mongoose dotenv cors
+npm install --save-dev nodemon
+npm install express
+npm install cors
+
+
+frontend
+npm install react-router-dom
+
+
+
+SCRIPT PARA PEGAR EN MONGODB
 
 
 use Empresa
